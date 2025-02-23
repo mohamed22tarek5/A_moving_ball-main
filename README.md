@@ -2,7 +2,7 @@
 A moving ball by python
 
 1. **Open the terminal in the desired directory**:
-   - If you're using a graphical interface, right-click inside the folder where `A-moving-ball.py` is located and select "Open Terminal Here" (the exact option may vary based on the operating system).
+   - If you're using a graphical interface, right-click inside the folder where `A_moving_ball.py` is located and select "Open Terminal Here" (the exact option may vary based on the operating system).
 
    - Alternatively, you can navigate to the folder via the terminal using the `cd` command:
      ```bash
@@ -21,7 +21,7 @@ A moving ball by python
 
 4. **Run the Python script**:
    ```bash
-   python A-moving-ball.py.py
+   python A_moving_ball.py
    ```
 
 Following these steps will ensure that all the necessary dependencies are installed and your script runs correctly.
