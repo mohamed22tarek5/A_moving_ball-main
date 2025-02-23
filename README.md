@@ -1,2 +1,2 @@
-# A_moving_ball-main
+# A_moving_ball
 A moving ball by python
